@@ -1,9 +1,10 @@
-Here is a simple footnote[^1].
+# INFORME DE TRABAJO FINAL
+Text that is not a quote
 
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
-
-# show
+> Text that is a quote
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+# Hola
+## Qpaso
+![image](https://github.com/user-attachments/assets/cbf8689a-be91-4260-b524-599488e69555)
